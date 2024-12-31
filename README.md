@@ -33,7 +33,7 @@ Este repositório contém um conjunto de testes E2E automatizados para o site [S
    ```
    npx cypress open
 
-🖼️ projeto rodando
+## 🖼️ projeto rodando
 
 ![git hub (online-video-cutter com)](https://github.com/user-attachments/assets/45055120-75a2-4f69-84b4-0eac292e3a46)
 
