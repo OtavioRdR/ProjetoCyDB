@@ -33,11 +33,9 @@ Este repositório contém um conjunto de testes E2E automatizados para o site [S
    ```
    npx cypress open
 
-🖼️ Capturas de Tela
+🖼️ projeto rodando
 
-
-https://github.com/user-attachments/assets/798d23f0-3b0c-41a7-92e5-cc156a827d5a
-
+![git-hub](https://github.com/user-attachments/assets/197a7118-3a42-4086-9207-4cf1731a9d0d)
 
 
 👤 Autor
