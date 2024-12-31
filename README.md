@@ -1,4 +1,4 @@
-# ProjetoCyDB - Testes Automatizados com Cypress
+# ProjetoCyDB - Testes Automatizados com Cypress🌐
 
 Este repositório contém um conjunto de testes E2E automatizados para o site [SauceDemo](https://www.saucedemo.com/v1/). O objetivo é validar funcionalidades como login, compra de produtos, ordenação e checkout.
 
