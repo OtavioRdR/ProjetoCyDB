@@ -26,10 +26,12 @@ Este repositório contém um conjunto de testes E2E automatizados para o site [S
    git clone https://github.com/OtavioRdR/ProjetoCyDB.git
 
 2. Instale as dependências:
-   ```npm install
+   ```
+   npm install
 
 3. Execute os testes:
-   ```npx cypress open
+   ```
+   npx cypress open
 
 🖼️ Capturas de Tela
 
