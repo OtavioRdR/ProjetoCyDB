@@ -35,8 +35,12 @@ Este repositório contém um conjunto de testes E2E automatizados para o site [S
 
 🖼️ Capturas de Tela
 
-👤 Autor
-Seu Nome
 
-GitHub
-LinkedIn
+https://github.com/user-attachments/assets/798d23f0-3b0c-41a7-92e5-cc156a827d5a
+
+
+
+👤 Autor
+Otavio Rosa Rodrigues
+
+GitHub : https://github.com/OtavioRdR
